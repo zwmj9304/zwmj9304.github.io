@@ -12,3 +12,7 @@ A 3D software package for rasterization, ray-tracing and animation.
 
 #### Photo-realistic rendering:
 ![Rendering](images/eggzie3d/CBdragon.png?raw=true)
+
+#### Motion Capture Animation:
+![Motion Capture](images/eggzie3d/motion_tracking01.png?raw=true)
+![Motion Capture](images/eggzie3d/motion_tracking02.png?raw=true)
